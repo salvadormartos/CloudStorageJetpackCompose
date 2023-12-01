@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913159174505",
+    "project_id": "imageinfirebasestorage-b3623",
+    "storage_bucket": "imageinfirebasestorage-b3623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913159174505:android:12cf576ad2c79b2195e5f8",
+        "android_client_info": {
+          "package_name": "ro.alexmamo.cloudstoragejetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-_tbXwzOX26aK9y4alZyTfo_XhwfwP94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
